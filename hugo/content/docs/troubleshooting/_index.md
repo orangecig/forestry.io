@@ -11,5 +11,6 @@ menu:
   docs:
     parent: Other
     weight: 1
+draft: true
 
 ---
