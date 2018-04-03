@@ -24,6 +24,7 @@ menu:
   troubleshooting:
     parent: Troubleshooting
     weight: 3
+draft: true
 
 ---
 For some hosting providers (such as GitHub pages) you will need to place a `CNAME` file in the root of your site.
