@@ -12,6 +12,7 @@ excerpt: We've added the ability to add inline formatting to textarea fields
 categories:
 - CMS
 date: 2017-07-26 11:26:03 +0000
+draft: true
 
 ---
 This week we’ve got a small, but very useful update we're excited to share with you.
