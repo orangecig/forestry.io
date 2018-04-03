@@ -1,8 +1,8 @@
 ---
 pages:
+- showcase/_index.md
 - showcase/developerecosystem.md
 - showcase/borisfx.md
-- showcase/_index.md
 - showcase/smallmultiples.md
 - showcase/yieldmo.md
 hide_body: false

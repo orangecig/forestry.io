@@ -27,6 +27,7 @@ menu:
   troubleshooting:
     name: Could not locate Gemfile or .bundle/ directroy
     weight: 2
+draft: true
 
 ---
 #### When I view an error log from Forestry I see: `Could not locate Gemfile or .bundle/ directory`
