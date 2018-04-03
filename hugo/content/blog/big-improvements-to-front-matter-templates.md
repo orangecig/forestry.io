@@ -12,6 +12,7 @@ title: Big Improvements to Front Matter Templates
 categories:
 - CMS
 date: 2017-07-10 10:00:00 -0300
+draft: true
 
 ---
 We've got great improvements to share with you from Forestry.io, involving Forestry’s *Front Matter Templates*.

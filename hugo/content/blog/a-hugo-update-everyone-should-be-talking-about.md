@@ -13,6 +13,7 @@ excerpt: 'For Hugo users a few great updates came out recently with a long-await
 categories:
 - hugo
 date: 2017-06-26 12:00:00 -0300
+draft: true
 
 ---
 For Hugo users a few great updates came out recently with a long-awaited feature: *nested sections*. Along with nested sections, Hugo 0.22-0.24 added a series of improvements that make building websites even easier.

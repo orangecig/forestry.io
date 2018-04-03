@@ -23,6 +23,7 @@ cta:
 private: false
 weight: ''
 aliases: []
+draft: true
 
 ---
 Hugo and Jekyll are the leading static site generators according to [StaticGen.com](https://staticgen.com), and both supported by our [CMS](https://forestry.io).  We're often asked which tool performs better so we decided to do an analysis.

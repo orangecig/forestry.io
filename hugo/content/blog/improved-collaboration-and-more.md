@@ -12,6 +12,7 @@ excerpt: Introducing two new features that make collaboration easier!
 categories:
 - CMS
 date: 2017-06-20 16:30:00 -0300
+draft: true
 
 ---
 ## Document Locking & Collaboration

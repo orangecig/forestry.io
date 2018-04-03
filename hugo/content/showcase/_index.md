@@ -9,6 +9,5 @@ date: 2017-12-31 00:00:00 -0400
 menu:
   main:
     weight: 2
-draft: true
 
 ---

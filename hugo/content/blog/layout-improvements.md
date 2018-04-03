@@ -13,6 +13,7 @@ excerpt: We’ve got 3 updates to share with you that will make using Forestry m
 categories:
 - CMS
 date: 2017-06-14 09:00:00 -0300
+draft: true
 
 ---
 We’ve been hard at work this month at [Forestry.io,](https://forestry.io) focusing on improving the editing experience and overall usability of the application and we’re excited to announce that it’s already here! We’ve got 3 updates to share with you that will make using Forestry much more enjoyable.

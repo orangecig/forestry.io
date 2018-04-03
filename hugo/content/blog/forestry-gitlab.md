@@ -15,6 +15,7 @@ title: Forestry + GitLab
 categories:
 - CMS
 date: 2016-09-06 23:45:00 +0000
+draft: true
 
 ---
 Now you can add a [Forestry.io CMS](https://forestry.io) to your [GitLab.com](https://gitlab.com) static site (Jekyll or Hugo).
