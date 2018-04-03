@@ -25,12 +25,12 @@ menu:
   docs:
     parent: Welcome
     weight: 1
+  main:
+    name: Docs
+    weight: 3
   footer:
     name: Docs
     parent: Product
-    weight: 3
-  main:
-    name: Docs
     weight: 3
 
 ---

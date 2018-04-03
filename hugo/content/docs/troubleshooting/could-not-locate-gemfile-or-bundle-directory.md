@@ -4,7 +4,7 @@ images:
 - "/uploads/2018/01/OGimage-01-docs-3x.jpg"
 authors:
 - Forestry Team
-publishdate: 2017-12-07 00:00:00 -0400
+publishdate: 2017-12-07 04:00:00 +0000
 expirydate: 2030-01-01 04:00:00 +0000
 layout: single
 date: 2018-02-22 11:56:06 +0000
@@ -26,7 +26,7 @@ aliases: []
 menu:
   troubleshooting:
     name: Could not locate Gemfile or .bundle/ directroy
-    weight: 1
+    weight: 2
 
 ---
 #### When I view an error log from Forestry I see: `Could not locate Gemfile or .bundle/ directory`
