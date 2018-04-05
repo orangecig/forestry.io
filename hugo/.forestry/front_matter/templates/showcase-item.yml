@@ -1,7 +1,7 @@
 ---
 pages:
-- showcase/_index.md
 - showcase/developerecosystem.md
+- showcase/_index.md
 - showcase/borisfx.md
 - showcase/smallmultiples.md
 - showcase/yieldmo.md
