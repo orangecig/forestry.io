@@ -2,10 +2,10 @@
 aliases:
 - "/remote/"
 title: Static CMS for Hugo & Jekyll
-description: Static CMS for Hugo & Jekyll sites, powered by Git. A better way to build
-  sites.
+description: Yes Yes
 authors:
 - forestryio
+- Front
 hero:
   headline: A static CMS that **commits**
   textline: Sync your Jekyll or Hugo site. Your editors will love it and won’t realize
@@ -75,7 +75,7 @@ features:
   class: section-deploy
 cta:
   headline: Build amazing sites
-  textline: No credit card required. 14-day free trial on all plans.
+  textline: Get started
 publishdate: 2017-12-31 04:00:00 +0000
 expirydate: 2030-01-01 04:00:00 +0000
 type: page
