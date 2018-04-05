@@ -7,9 +7,8 @@ authors:
 - forestryio
 - Front
 hero:
-  headline: A static CMS that **commits**
-  textline: Sync your Jekyll or Hugo site. Your editors will love it and won’t realize
-    they’re making commits.
+  headline: Focused in building that **commits**
+  textline: 'Blah blah Blah blah Blah blah Blah blah Blah blah Blah blah '
   ctas:
   - permalink: https://app.forestry.io/signup
     textline: Start building now
