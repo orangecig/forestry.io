@@ -37,10 +37,11 @@ cta:
   calls_to_action: []
 private: false
 menu:
+  main:
+    weight: 1
+    name: testing
   footer:
     parent: Product
-    weight: 1
-  main:
     weight: 1
 
 ---
