@@ -1,7 +1,6 @@
 ---
-pages:
-- pricing.md
 hide_body: false
+is_partial: false
 fields:
 - type: text
   label: Title
@@ -139,3 +138,5 @@ fields:
       wysiwyg: true
   config:
     labelField: headline
+pages:
+- pricing.md
