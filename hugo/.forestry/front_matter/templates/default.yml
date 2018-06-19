@@ -137,6 +137,7 @@ pages:
 - hugo/content/careers/_index.md
 - hugo/content/careers/admin.md
 - hugo/content/careers/devrel.md
+- hugo/content/blog/bigger-better-editor.md
 - hugo/content/blog/new-test.md
 - hugo/content/blog/up-and-running-with-hugo.md
 - hugo/content/blog/up-and-running-with-hugo-part-2.md
@@ -156,7 +157,6 @@ pages:
 - hugo/content/blog/forestryio-techstars-2016.md
 - hugo/content/blog/front-matter-templates.md
 - hugo/content/blog/big-improvements-to-front-matter-templates.md
-- hugo/content/blog/bigger-better-editor.md
 - hugo/content/blog/the-new-forestry-io.md
 - hugo/content/blog/search-with-algolia-in-jekyll.md
 - hugo/content/blog/_index.md

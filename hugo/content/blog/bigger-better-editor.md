@@ -12,6 +12,7 @@ title: 3 Reasons Why Our New Editor Is Our Best Static Site Editor Yet
 categories:
 - CMS
 date: 2017-05-30 14:01:35 +0000
+draft: true
 
 ---
 For the past few weeks, Nichlas and Nolan have been hard at work on the Forestry content editor. We wanted to make the easiest-to-use, most configurable static site content editor ever built. With their hard work, we now have some big improvements to share that get us that much closer. We’ve built a new and improved editor that makes managing your site easier and more effective than ever before. Both on the desktop and on mobile devices.
