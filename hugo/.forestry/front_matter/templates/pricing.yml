@@ -139,4 +139,4 @@ fields:
   config:
     labelField: headline
 pages:
-- pricing.md
+- hugo/content/pricing.md
