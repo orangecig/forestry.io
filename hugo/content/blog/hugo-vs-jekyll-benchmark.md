@@ -23,6 +23,10 @@ cta:
 private: false
 weight: ''
 aliases: []
+menu:
+  main:
+    weight: 1
+    name: testing
 draft: true
 
 ---
